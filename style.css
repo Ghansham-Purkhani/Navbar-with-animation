@@ -2,8 +2,8 @@
     display: flex !important;
     justify-content: space-around;
     border: 1px solid #ff0000;
-    background-color: #ffe4c4;
-    padding: 0.2rem;
+    background-color: #faf3eb;
+    padding: 0.3rem;
 }
 a.navbarLink{
     background-color: #ffe4c4;
@@ -12,4 +12,10 @@ a.navbarLink{
     color: #fff;
     padding: 0.5rem;
     border-radius: 0.3rem;
+    transition: background-color 0.5s ease;
 }
+a.navbarLink:hover{
+background-color: #270380;
+color:#fff;
+padding: 0.5rem;
+} 
