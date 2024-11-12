@@ -6,16 +6,22 @@
     padding: 0.3rem;
 }
 a.navbarLink{
-    background-color: #ffe4c4;
+    /* background-color: #ffe4c4; */
     text-decoration: none;
-    background-color: #000;
-    color: #fff;
+    /* background-color: #3e3e3e; */
+    color: #000000;
     padding: 0.5rem;
     border-radius: 0.3rem;
     transition: background-color 0.5s ease;
+    font-family: serif,sans-serif;
+    font-weight: bold;
 }
 a.navbarLink:hover{
-background-color: #270380;
+background-color: #855deb;
 color:#fff;
-padding: 0.5rem;
+padding: 0.7rem;
+border-radius: 1px solid #f00;
 } 
+h1{
+    text-align: center;
+}
