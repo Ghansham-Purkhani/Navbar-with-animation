@@ -1,0 +1,15 @@
+.navbarParent{
+    display: flex !important;
+    justify-content: space-around;
+    border: 1px solid #ff0000;
+    background-color: #ffe4c4;
+    padding: 0.2rem;
+}
+a.navbarLink{
+    background-color: #ffe4c4;
+    text-decoration: none;
+    background-color: #000;
+    color: #fff;
+    padding: 0.5rem;
+    border-radius: 0.3rem;
+}
